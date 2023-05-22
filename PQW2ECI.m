@@ -6,7 +6,7 @@ arg_prg=input('arg_prg ='); %argument of perigee
 inc_angle=input('inc_angle='); %inclination
 RAAN=input('RAAN ='); %right ascension of ascending node
 
-%% simplication
+%% simplification
 a=cos(arg_prg);
 b=sin(arg_prg);
 c=cos(inc_angle);
